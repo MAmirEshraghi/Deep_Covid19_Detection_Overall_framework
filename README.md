@@ -53,7 +53,7 @@ The aim of this datasets is to encourage the research and development of effecti
 As a baseline for this datasets, we used a CNN-based approach inspired by transfer learning which we could achieve an accuracy of 99.7% for CT-Scan and 98.83% for X-ray dataset which is very promising.
 
 
-CT-Scan Dataset is available at: ---Soon.
+CT-Scan Dataset is available at: https://www.kaggle.com/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset
 X-ray Dataset is available at: ----Soon.
 
 - **Citation:**
