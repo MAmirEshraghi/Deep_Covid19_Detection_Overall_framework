@@ -27,6 +27,7 @@ Due to the COVID-19 pandemic and the imminent collapse of healthcare systems fol
 ![image](https://user-images.githubusercontent.com/92205834/152779227-a68a9bbf-c60b-472b-9212-9a2b2ea61b51.png)
 
 - datasets:
+
 We also made available a large public COVID-19 lung CT scan dataset. it contains 14,482 CT scans which include 12,231 positive cases (COVID-19 infection) and 2251 negative ones (normal and non-COVID-19). Data is available as 512×512px JPG images and also made available a small public COVID-19 chest X-Ray dataset. it contains 341 X-Ray images which include 111 positive cases (COVID-19 infection) and 230 negative ones (normal and non-COVID-19). Data is available as 512×512px JPG images and have been collected from real patients in radiology centers of teaching hospitals of Tehran, Iran. 
 The aim of this datasets is to encourage the research and development of effective and innovative methods such as deep CNNs which are able to identify if a person is infected by COVID-19 through the analysis of his/her CT scans and X-rays. As a baseline for this datasets, we used a CNN-based approach inspired by transfer learning which we could achieve an accuracy of 99.7% for CT-Scan and 98.83% for X-ray dataset which is very promising.
 
