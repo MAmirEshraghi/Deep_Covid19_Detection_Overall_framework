@@ -25,7 +25,10 @@ The proposed framework for detection COVID-19 based on two phase of CNN models a
 ![image](https://user-images.githubusercontent.com/92205834/152779656-ea08457a-1204-492d-a0aa-b0d5414839b6.png)
 
 First phase accuracy:
+
+'''
 98.83%
+'''
 
 2- Second phase(CT-scan imagse):
 ![image](https://user-images.githubusercontent.com/92205834/152779773-c840785e-3f90-417e-8dd7-dd73ce872e22.png)
