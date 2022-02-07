@@ -5,8 +5,11 @@
 - Abstract:
 
 Introduction: While the COVID-19 pandemic was waning in most parts of the world, a new wave of COVID-19 Omicron and Delta variants in central Asia and the Middle East caused a devastating crisis and collapse of health care systems. As the diagnostic methods for this COVID-19 variant became more complex, healthcare centers faced a dramatic increase in patients. Thus, the need for less expensive and faster diagnostic methods led researchers and specialists to work on improving diagnostic testing.
+
 Method: Inspired by the COVID-19 diagnosis methods, the latest and most efficient deep learning algorithms in the field of extracting X-ray and CT-Scan image features were used to identify COVID-19 in the early stages of the disease. 
+
 Results: We presented a general framework consisting of two models which are developed by convolutional neural network (CNN) using the concept of Transfer Learning and parameter optimization. In all cases, the framework was able to successfully detect COVID-19. 
+
 Conclusion: Since the proposed framework was based on two deep learning models that used two radiology modalities, it was able to significantly assist radiologists in detecting COVID-19 in the early stages. The use of models with this feature can be considered as a powerful and reliable tool, compared to previous models used in the past pandemics. 
 
 - Proposed framework:
