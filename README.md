@@ -1,7 +1,13 @@
 # Deep_Covid19_Detection_Overall_framework
 # Efficient Framework for Detection of COVID-19 Omicron and Delta Variant Based on Two Intelligent Phases of CNN Models (X-ray and CT-Scan images)
 
-Due to the COVID-19 pandemic and the imminent collapse of healthcare systems following the excessive consumption of financial, hospital, and medicinal resources, the World Health Organization (WHO) changed the alert level on the COVID-19 pandemic from high to very high. Meanwhile, the world began to favor less expensive and more precise COVID-19 detection methods. Machine vision-based COVID-19 detection methods especially Deep learning as a diagnostic technique in the early stages of the disease have found great importance during the pandemic.
+
+- ABSTRACT:
+Introduction: While the COVID-19 pandemic was waning in most parts of the world, a new wave of COVID-19 Omicron and Delta variants in central Asia and the Middle East caused a devastating crisis and collapse of health care systems. As the diagnostic methods for this COVID-19 variant became more complex, healthcare centers faced a dramatic increase in patients. Thus, the need for less expensive and faster diagnostic methods led researchers and specialists to work on improving diagnostic testing.
+Method: Inspired by the COVID-19 diagnosis methods, the latest and most efficient deep learning algorithms in the field of extracting X-ray and CT-Scan image features were used to identify COVID-19 in the early stages of the disease. 
+Results: We presented a general framework consisting of two models which are developed by convolutional neural network (CNN) using the concept of Transfer Learning and parameter optimization. In all cases, the framework was able to successfully detect COVID-19. 
+Conclusion: Since the proposed framework was based on two deep learning models that used two radiology modalities, it was able to significantly assist radiologists in detecting COVID-19 in the early stages. The use of models with this feature can be considered as a powerful and reliable tool, compared to previous models used in the past pandemics. 
+
 
 - The proposed framework for detection COVID-19 based on two phase of CNN models and Radiology modalities:
 
@@ -34,5 +40,8 @@ The aim of this datasets is to encourage the research and development of effecti
 CT-Scan Dataset is available at: ---Soon.
 X-ray Dataset is available at: ----Soon.
 
+- Citation:
+
 You may also access the paper: ----Soon.
 
+Mustafa Ghaderzadeha, Mohammad Amir Eshraghi, Azamossadat Hosseini, Farkhondeh Asadi ,Ramezan Jafari ,Davood Bashash ,Hassan Abolghasemi
