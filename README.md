@@ -9,10 +9,9 @@ Method: Inspired by the COVID-19 diagnosis methods, the latest and most efficien
 Results: We presented a general framework consisting of two models which are developed by convolutional neural network (CNN) using the concept of Transfer Learning and parameter optimization. In all cases, the framework was able to successfully detect COVID-19. 
 Conclusion: Since the proposed framework was based on two deep learning models that used two radiology modalities, it was able to significantly assist radiologists in detecting COVID-19 in the early stages. The use of models with this feature can be considered as a powerful and reliable tool, compared to previous models used in the past pandemics. 
 
+- Proposed framework:
 
-- The proposed framework for detection COVID-19 based on two phase of CNN models and Radiology modalities:
-
-
+The proposed framework for detection COVID-19 based on two phase of CNN models and Radiology modalities:
 ![Model](https://user-images.githubusercontent.com/92205834/146656597-0aa7871a-af92-4050-ae58-9e946bc7a77e.png)
 
 
