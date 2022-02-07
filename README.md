@@ -26,8 +26,7 @@ The proposed framework for detection COVID-19 based on two phase of CNN models a
 ![image](https://user-images.githubusercontent.com/92205834/152779781-ac99f6ba-fe58-42ba-84e0-ca4f2c3961ae.png)
 
 
-- Results of detection on 16 random samples from the test set. 
-“N” is image index number, “P” is predicted value and “GT” is grand truth label. Caption in green color means correct detection and red means wrong:
+Results of detection on 16 random samples from the test set. “N” is image index number, “P” is predicted value and “GT” is grand truth label. Caption in green color means correct detection and red means wrong:
 
 ![image](https://user-images.githubusercontent.com/92205834/152779135-de6a777b-469b-42ea-99f5-01e5f1408a41.png)
 ![image](https://user-images.githubusercontent.com/92205834/152779227-a68a9bbf-c60b-472b-9212-9a2b2ea61b51.png)
