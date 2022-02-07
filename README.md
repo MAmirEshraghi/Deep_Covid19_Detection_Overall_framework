@@ -9,13 +9,7 @@ Fig 1: The proposed framework for detection COVID-19 based on two phase of CNN m
 ![Model](https://user-images.githubusercontent.com/92205834/146656597-0aa7871a-af92-4050-ae58-9e946bc7a77e.png)
 
 
-Results of detection on 25 random samples from the test set. “N” is image index number, “P” is predicted value and “GT” is grand truth label. Caption in green color means correct detection and red means wrong:
-
-![image](https://user-images.githubusercontent.com/92205834/152779135-de6a777b-469b-42ea-99f5-01e5f1408a41.png)
-
-![image](https://user-images.githubusercontent.com/92205834/152779227-a68a9bbf-c60b-472b-9212-9a2b2ea61b51.png)
-
-Results of detection Model 
+- Results of detection Models:
 
 1- First phase (X-Ray images):
 ![image](https://user-images.githubusercontent.com/92205834/152779627-1838e708-0c30-4725-9344-cd70274ff317.png)
@@ -24,6 +18,12 @@ Results of detection Model
 2- Second phase(CT-scan imagse):
 ![image](https://user-images.githubusercontent.com/92205834/152779773-c840785e-3f90-417e-8dd7-dd73ce872e22.png)
 ![image](https://user-images.githubusercontent.com/92205834/152779781-ac99f6ba-fe58-42ba-84e0-ca4f2c3961ae.png)
+
+
+Results of detection on 25 random samples from the test set. “N” is image index number, “P” is predicted value and “GT” is grand truth label. Caption in green color means correct detection and red means wrong:
+
+![image](https://user-images.githubusercontent.com/92205834/152779135-de6a777b-469b-42ea-99f5-01e5f1408a41.png)
+![image](https://user-images.githubusercontent.com/92205834/152779227-a68a9bbf-c60b-472b-9212-9a2b2ea61b51.png)
 
 
 We also made available a large public COVID-19 lung CT scan dataset. it contains 14,482 CT scans which include 12,231 positive cases (COVID-19 infection) and 2251 negative ones (normal and non-COVID-19). Data is available as 512×512px JPG images and also made available a small public COVID-19 chest X-Ray dataset. it contains 341 X-Ray images which include 111 positive cases (COVID-19 infection) and 230 negative ones (normal and non-COVID-19). Data is available as 512×512px JPG images and have been collected from real patients in radiology centers of teaching hospitals of Tehran, Iran. 
