@@ -58,7 +58,7 @@ X-ray Dataset is available at: ----Soon.
 
 - **Citation:**
 
-You may also access the paper: ----Soon.
+You may also access the paper: https://doi.org/10.1155/2022/4838009.
 
 ```
 Mustafa Ghaderzadeha, Mohammad Amir Eshraghi, Azamossadat Hosseini, Farkhondeh Asadi ,Ramezan Jafari ,Davood Bashash ,Hassan Abolghasemi
