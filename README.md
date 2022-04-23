@@ -55,7 +55,7 @@ As a baseline for this datasets, we used a CNN-based approach inspired by transf
 
 CT-Scan Dataset is available at: https://www.kaggle.com/mohammadamireshraghi/covid19-omicron-and-delta-variant-ct-scan-dataset
 
-X-ray Dataset is available at: https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-xray-local-data
+X-ray Dataset is available at: https://www.kaggle.com/mohammadamireshraghi/covid19-xray-local-data
 
 - **Citation:**
 
